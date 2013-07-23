@@ -1,0 +1,536 @@
+p0 init
+p1 init
+p2 init
+p3 init
+p4 init
+p5 init
+p6 init
+p7 init
+p8 init
+p9 init
+p10 init
+p11 init
+p12 init
+p13 init
+p14 init
+p15 init
+p0 compute 12500000
+p1 compute 12500000
+p2 compute 12500000
+p3 compute 12500000
+p4 compute 12500000
+p5 compute 12500000
+p6 compute 12500000
+p7 compute 12500000
+p8 compute 25000000
+p9 compute 25000000
+p10 compute 25000000
+p11 compute 25000000
+p12 compute 25000000
+p13 compute 25000000
+p14 compute 25000000
+p15 compute 25000000
+p0 sleep 0.075
+p1 sleep 0.075
+p2 sleep 0.075
+p3 sleep 0.075
+p4 sleep 0.075
+p5 sleep 0.075
+p6 sleep 0.075
+p7 sleep 0.075
+p8 sleep 0.05
+p9 sleep 0.05
+p10 sleep 0.05
+p11 sleep 0.05
+p12 sleep 0.05
+p13 sleep 0.05
+p14 sleep 0.05
+p15 sleep 0.05
+p0 compute 25000000
+p1 compute 25000000
+p2 compute 25000000
+p3 compute 25000000
+p4 compute 25000000
+p5 compute 25000000
+p6 compute 25000000
+p7 compute 25000000
+p8 compute 25000000
+p9 compute 25000000
+p10 compute 25000000
+p11 compute 25000000
+p12 compute 25000000
+p13 compute 25000000
+p14 compute 25000000
+p15 compute 25000000
+p0 sleep 0.05
+p1 sleep 0.05
+p2 sleep 0.05
+p3 sleep 0.05
+p4 sleep 0.05
+p5 sleep 0.05
+p6 sleep 0.05
+p7 sleep 0.05
+p8 sleep 0.05
+p9 sleep 0.05
+p10 sleep 0.05
+p11 sleep 0.05
+p12 sleep 0.05
+p13 sleep 0.05
+p14 sleep 0.05
+p15 sleep 0.05
+p0 compute 25000000
+p1 compute 25000000
+p2 compute 25000000
+p3 compute 25000000
+p4 compute 25000000
+p5 compute 25000000
+p6 compute 25000000
+p7 compute 25000000
+p8 compute 25000000
+p9 compute 25000000
+p10 compute 25000000
+p11 compute 25000000
+p12 compute 25000000
+p13 compute 25000000
+p14 compute 25000000
+p15 compute 25000000
+p0 sleep 0.05
+p1 sleep 0.05
+p2 sleep 0.05
+p3 sleep 0.05
+p4 sleep 0.05
+p5 sleep 0.05
+p6 sleep 0.05
+p7 sleep 0.05
+p8 sleep 0.05
+p9 sleep 0.05
+p10 sleep 0.05
+p11 sleep 0.05
+p12 sleep 0.05
+p13 sleep 0.05
+p14 sleep 0.05
+p15 sleep 0.05
+p0 compute 25000000
+p1 compute 25000000
+p2 compute 25000000
+p3 compute 25000000
+p4 compute 25000000
+p5 compute 25000000
+p6 compute 25000000
+p7 compute 25000000
+p0 sleep 0.05
+p1 sleep 0.05
+p2 sleep 0.05
+p3 sleep 0.05
+p4 sleep 0.05
+p5 sleep 0.05
+p6 sleep 0.05
+p7 sleep 0.05
+p8 sleep 0.1
+p9 sleep 0.1
+p10 sleep 0.1
+p11 sleep 0.1
+p12 sleep 0.1
+p13 sleep 0.1
+p14 sleep 0.1
+p15 sleep 0.1
+p0 send p8 3125000
+p8 recv p0
+p1 send p9 3125000
+p9 recv p1
+p2 send p10 3125000
+p10 recv p2
+p3 send p11 3125000
+p11 recv p3
+p4 send p12 3125000
+p12 recv p4
+p5 send p13 3125000
+p13 recv p5
+p6 send p14 3125000
+p14 recv p6
+p7 send p15 3125000
+p15 recv p7
+p0 sleep 0.0655222
+p1 sleep 0.0655222
+p2 sleep 0.0655222
+p3 sleep 0.0655222
+p4 sleep 0.0655222
+p5 sleep 0.0655222
+p6 sleep 0.0655222
+p7 sleep 0.0655222
+p8 sleep 0.0655222
+p9 sleep 0.0655222
+p10 sleep 0.0655222
+p11 sleep 0.0655222
+p12 sleep 0.0655222
+p13 sleep 0.0655222
+p14 sleep 0.0655222
+p15 sleep 0.0655222
+p0 sleep 0.1
+p1 sleep 0.1
+p2 sleep 0.1
+p3 sleep 0.1
+p4 sleep 0.1
+p5 sleep 0.1
+p6 sleep 0.1
+p7 sleep 0.1
+p8 sleep 0.1
+p9 sleep 0.1
+p10 sleep 0.1
+p11 sleep 0.1
+p12 sleep 0.1
+p13 sleep 0.1
+p14 sleep 0.1
+p15 sleep 0.1
+p8 compute 25000000
+p9 compute 25000000
+p10 compute 25000000
+p11 compute 25000000
+p12 compute 25000000
+p13 compute 25000000
+p14 compute 25000000
+p15 compute 25000000
+p0 sleep 0.1
+p1 sleep 0.1
+p2 sleep 0.1
+p3 sleep 0.1
+p4 sleep 0.1
+p5 sleep 0.1
+p6 sleep 0.1
+p7 sleep 0.1
+p8 sleep 0.05
+p9 sleep 0.05
+p10 sleep 0.05
+p11 sleep 0.05
+p12 sleep 0.05
+p13 sleep 0.05
+p14 sleep 0.05
+p15 sleep 0.05
+p0 compute 25000000
+p1 compute 25000000
+p2 compute 25000000
+p3 compute 25000000
+p4 compute 25000000
+p5 compute 25000000
+p6 compute 25000000
+p7 compute 25000000
+p0 sleep 0.05
+p1 sleep 0.05
+p2 sleep 0.05
+p3 sleep 0.05
+p4 sleep 0.05
+p5 sleep 0.05
+p6 sleep 0.05
+p7 sleep 0.05
+p8 sleep 0.1
+p9 sleep 0.1
+p10 sleep 0.1
+p11 sleep 0.1
+p12 sleep 0.1
+p13 sleep 0.1
+p14 sleep 0.1
+p15 sleep 0.1
+p0 compute 12500000
+p1 compute 12500000
+p2 compute 12500000
+p3 compute 12500000
+p4 compute 12500000
+p5 compute 12500000
+p6 compute 12500000
+p7 compute 12500000
+p0 sleep 0.075
+p1 sleep 0.075
+p2 sleep 0.075
+p3 sleep 0.075
+p4 sleep 0.075
+p5 sleep 0.075
+p6 sleep 0.075
+p7 sleep 0.075
+p8 sleep 0.1
+p9 sleep 0.1
+p10 sleep 0.1
+p11 sleep 0.1
+p12 sleep 0.1
+p13 sleep 0.1
+p14 sleep 0.1
+p15 sleep 0.1
+p8 compute 12500000
+p9 compute 12500000
+p10 compute 12500000
+p11 compute 12500000
+p12 compute 12500000
+p13 compute 12500000
+p14 compute 12500000
+p15 compute 12500000
+p0 sleep 0.1
+p1 sleep 0.1
+p2 sleep 0.1
+p3 sleep 0.1
+p4 sleep 0.1
+p5 sleep 0.1
+p6 sleep 0.1
+p7 sleep 0.1
+p8 sleep 0.075
+p9 sleep 0.075
+p10 sleep 0.075
+p11 sleep 0.075
+p12 sleep 0.075
+p13 sleep 0.075
+p14 sleep 0.075
+p15 sleep 0.075
+p0 sleep 0.1
+p1 sleep 0.1
+p2 sleep 0.1
+p3 sleep 0.1
+p4 sleep 0.1
+p5 sleep 0.1
+p6 sleep 0.1
+p7 sleep 0.1
+p8 sleep 0.1
+p9 sleep 0.1
+p10 sleep 0.1
+p11 sleep 0.1
+p12 sleep 0.1
+p13 sleep 0.1
+p14 sleep 0.1
+p15 sleep 0.1
+p0 compute 12500000
+p1 compute 12500000
+p2 compute 12500000
+p3 compute 12500000
+p4 compute 12500000
+p5 compute 12500000
+p6 compute 12500000
+p7 compute 12500000
+p0 sleep 0.075
+p1 sleep 0.075
+p2 sleep 0.075
+p3 sleep 0.075
+p4 sleep 0.075
+p5 sleep 0.075
+p6 sleep 0.075
+p7 sleep 0.075
+p8 sleep 0.1
+p9 sleep 0.1
+p10 sleep 0.1
+p11 sleep 0.1
+p12 sleep 0.1
+p13 sleep 0.1
+p14 sleep 0.1
+p15 sleep 0.1
+p0 send p8 4559000
+p8 recv p0
+p1 send p9 4559000
+p9 recv p1
+p2 send p10 4559000
+p10 recv p2
+p3 send p11 4559000
+p11 recv p3
+p4 send p12 4559000
+p12 recv p4
+p5 send p13 4559000
+p13 recv p5
+p6 send p14 4559000
+p14 recv p6
+p7 send p15 4559000
+p15 recv p7
+p0 sleep 0.05
+p1 sleep 0.05
+p2 sleep 0.05
+p3 sleep 0.05
+p4 sleep 0.05
+p5 sleep 0.05
+p6 sleep 0.05
+p7 sleep 0.05
+p8 sleep 0.05
+p9 sleep 0.05
+p10 sleep 0.05
+p11 sleep 0.05
+p12 sleep 0.05
+p13 sleep 0.05
+p14 sleep 0.05
+p15 sleep 0.05
+p0 send p1 1250
+p1 recv p0
+p1 send p0 1250
+p0 recv p1
+p2 send p3 1250
+p3 recv p2
+p3 send p2 1250
+p2 recv p3
+p4 send p5 1250
+p5 recv p4
+p5 send p4 1250
+p4 recv p5
+p6 send p7 1250
+p7 recv p6
+p7 send p6 1250
+p6 recv p7
+p8 send p9 1250
+p9 recv p8
+p9 send p8 1250
+p8 recv p9
+p10 send p11 1250
+p11 recv p10
+p11 send p10 1250
+p10 recv p11
+p12 send p13 1250
+p13 recv p12
+p13 send p12 1250
+p12 recv p13
+p14 send p15 1250
+p15 recv p14
+p15 send p14 1250
+p14 recv p15
+p0 send p2 1250
+p2 recv p0
+p2 send p0 1250
+p0 recv p2
+p1 send p3 1250
+p3 recv p1
+p3 send p1 1250
+p1 recv p3
+p2 send p4 1250
+p4 recv p2
+p4 send p2 1250
+p2 recv p4
+p3 send p5 1250
+p5 recv p3
+p5 send p3 1250
+p3 recv p5
+p4 send p6 1250
+p6 recv p4
+p6 send p4 1250
+p4 recv p6
+p5 send p7 1250
+p7 recv p5
+p7 send p5 1250
+p5 recv p7
+p6 send p8 1250
+p8 recv p6
+p8 send p6 1250
+p6 recv p8
+p7 send p9 1250
+p9 recv p7
+p9 send p7 1250
+p7 recv p9
+p8 send p10 1250
+p10 recv p8
+p10 send p8 1250
+p8 recv p10
+p9 send p11 1250
+p11 recv p9
+p11 send p9 1250
+p9 recv p11
+p10 send p12 1250
+p12 recv p10
+p12 send p10 1250
+p10 recv p12
+p11 send p13 1250
+p13 recv p11
+p13 send p11 1250
+p11 recv p13
+p12 send p14 1250
+p14 recv p12
+p14 send p12 1250
+p12 recv p14
+p13 send p15 1250
+p15 recv p13
+p15 send p13 1250
+p13 recv p15
+p0 sleep 0.05402372
+p1 sleep 0.05402372
+p2 sleep 0.05402372
+p3 sleep 0.05402372
+p4 sleep 0.05402372
+p5 sleep 0.05402372
+p6 sleep 0.05402372
+p7 sleep 0.05402372
+p8 sleep 0.05402372
+p9 sleep 0.05402372
+p10 sleep 0.05402372
+p11 sleep 0.05402372
+p12 sleep 0.05402372
+p13 sleep 0.05402372
+p14 sleep 0.05402372
+p15 sleep 0.05402372
+p0 send p8 1691000
+p8 recv p0
+p1 send p9 1691000
+p9 recv p1
+p2 send p10 1691000
+p10 recv p2
+p3 send p11 1691000
+p11 recv p3
+p4 send p12 1691000
+p12 recv p4
+p5 send p13 1691000
+p13 recv p5
+p6 send p14 1691000
+p14 recv p6
+p7 send p15 1691000
+p15 recv p7
+p0 sleep 0.0810449
+p1 sleep 0.0810449
+p2 sleep 0.0810449
+p3 sleep 0.0810449
+p4 sleep 0.0810449
+p5 sleep 0.0810449
+p6 sleep 0.0810449
+p7 sleep 0.0810449
+p8 sleep 0.0810449
+p9 sleep 0.0810449
+p10 sleep 0.0810449
+p11 sleep 0.0810449
+p12 sleep 0.0810449
+p13 sleep 0.0810449
+p14 sleep 0.0810449
+p15 sleep 0.0810449
+p8 send p0 4559000
+p0 recv p8
+p9 send p1 4559000
+p1 recv p9
+p10 send p2 4559000
+p2 recv p10
+p11 send p3 4559000
+p3 recv p11
+p12 send p4 4559000
+p4 recv p12
+p13 send p5 4559000
+p5 recv p13
+p14 send p6 4559000
+p6 recv p14
+p15 send p7 4559000
+p7 recv p15
+p0 sleep 0.05
+p1 sleep 0.05
+p2 sleep 0.05
+p3 sleep 0.05
+p4 sleep 0.05
+p5 sleep 0.05
+p6 sleep 0.05
+p7 sleep 0.05
+p8 sleep 0.05
+p9 sleep 0.05
+p10 sleep 0.05
+p11 sleep 0.05
+p12 sleep 0.05
+p13 sleep 0.05
+p14 sleep 0.05
+p15 sleep 0.05
+p8 send p0 1691000
+p0 recv p8
+p9 send p1 1691000
+p1 recv p9
+p10 send p2 1691000
+p2 recv p10
+p11 send p3 1691000
+p3 recv p11
+p12 send p4 1691000
+p4 recv p12
+p13 send p5 1691000
+p5 recv p13
+p14 send p6 1691000
+p6 recv p14
+p15 send p7 1691000
+p7 recv p15

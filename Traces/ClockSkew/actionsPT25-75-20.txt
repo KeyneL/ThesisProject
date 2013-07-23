@@ -1,0 +1,35 @@
+p0 init
+p1 init
+p0 compute 1.25e7
+p1 sleep 1
+p1 compute 1.25e7
+p0 sleep 1
+p0 send p1 21866845
+p1 recv p0
+p1 send p0 10173345
+p0 recv p1
+p0 sleep 6
+p1 sleep 6
+p1 send p0 11693500
+p0 recv p1
+p0 compute 1.25e7
+p1 compute 1.25e7
+p0 send p1 20463625
+p1 recv p0
+p0 sleep 6
+p1 sleep 6
+p0 send p1 1403220
+p1 recv p0
+p1 send p0 21866845
+p0 recv p1
+p0 compute 1.25e7
+p1 compute 1.25e7
+p0 send p1 8770125
+p1 recv p0
+p0 sleep 6
+p1 sleep 6
+p0 send p1 13096720
+p1 recv p0
+p1 send p0 21866845
+p0 recv p1
+

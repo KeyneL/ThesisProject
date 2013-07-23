@@ -1,0 +1,29 @@
+p0 init
+p1 init
+p1 sleep 1.5
+p0 compute 3.75e7
+p1 compute 3.75e7
+p0 sleep 7.75
+p1 sleep 6.25
+p0 send p1 7250000
+p1 recv p0
+p1 send p0 7250000
+p0 recv p1
+p0 compute 2.25e7
+p1 compute 3.75e7
+p0 sleep 5
+p1 sleep 5
+p0 compute 1.5e7
+p0 send p1 7250000
+p1 recv p0
+p1 send p0 7250000
+p0 recv p1
+p0 compute 2.25e7
+p1 compute 3.75e7
+p0 sleep 5
+p1 sleep 5
+p0 compute 1.5e7
+p0 send p1 7250000
+p1 recv p0
+p1 send p0 7250000
+p0 recv p1

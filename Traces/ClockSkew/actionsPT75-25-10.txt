@@ -1,0 +1,36 @@
+p0 init
+p1 init
+p0 compute 3.75e7
+p1 sleep 0.5
+p1 compute 3.75e7
+p0 sleep 0.5
+p0 send p1 7250000
+p1 recv p0
+p1 send p0 1403220
+p0 recv p1
+p0 sleep 5
+p1 sleep 5.5
+p1 send p0 5846780
+p0 recv p1
+p0 compute 3.75e7
+p1 compute 3.75e7
+p0 send p1 2923375
+p1 recv p0
+p0 sleep 5.5
+p1 sleep 5.5
+p0 send p1 4326625
+p1 recv p0
+p1 send p0 7250000
+p0 recv p1
+p0 compute 3.5e7
+p1 compute 3.75e7
+p0 sleep 5
+p1 sleep 5.25
+p0 compute 0.25e7
+p0 sleep 0.25
+p0 send p1 7250000
+p1 recv p0
+p1 send p0 7250000
+p0 recv p1
+
+

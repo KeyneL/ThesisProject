@@ -1,0 +1,48 @@
+p0 init
+p1 init
+p2 init
+p3 init
+p4 init
+p5 init
+p6 init
+p7 init
+p8 init
+p9 init
+p10 init
+p11 init
+p12 init
+p13 init
+p14 init
+p15 init
+p0 send p8 3125000
+p8 recv p0
+p1 send p9 3125000
+p9 recv p1
+p2 send p10 3125000
+p10 recv p2
+p3 send p11 3125000
+p11 recv p3
+p4 send p12 3125000
+p12 recv p4
+p5 send p13 3125000
+p13 recv p5
+p6 send p14 3125000
+p14 recv p6
+p7 send p15 3125000
+p15 recv p7
+p0 finalize
+p1 finalize
+p2 finalize
+p3 finalize
+p4 finalize
+p5 finalize
+p6 finalize
+p7 finalize
+p8 finalize
+p9 finalize
+p10 finalize
+p11 finalize
+p12 finalize
+p13 finalize
+p14 finalize
+p15 finalize
